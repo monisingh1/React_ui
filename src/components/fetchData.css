@@ -1,0 +1,19 @@
+ 
+
+.usersTable{
+    margin-top: 165%;
+    width: 100%;
+    background-color: white;
+    box-shadow: 1px 1px 8px;
+    border-radius: 5px;
+}
+
+
+.usersTable table{
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+ 
